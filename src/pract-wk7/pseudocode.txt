@@ -1,0 +1,25 @@
+Stap 3:
+Nu je kunt meten hoe lang de server doet over een antwoord kunnen we beginnen met kraken! 
+
+Stap één is het bepalen van de lengte van het wachtwoord. 
+Schrijf een functie die de responstijd van wachtwoorden van verschillende lengte meet, en deze gebruikt om de juiste lengte te bepalen. 
+
+Denk goed na over waar in de code je het tijdsverschil meet.
+
+Hint: variabele vertraging in het netwerk voegt willekeur toe aan de responstijd.
+Wat kun je doen om je metingen betrouwbaarder te maken?
+
+Denk hierbij bijvoorbeeld aan een statistische analyse.
+
+
+
+Stap 4:
+Nu je de juiste lengte hebt kun je beginnen met het kraken van het wachtwoord zelf. 
+Doe dit door eerst een ontwerp te maken met pseudo-code en er met zijn tweeën naar te kijken alvorens je het implementeert. 
+
+Doe dit vóórdat je het internet raadpleegt voor hulp!
+Hint: je zult teken voor teken aan de slag moeten gaan!
+
+NB: het wachtwoord bestaat uit alleen kleine letters en cijfers. 
+Mocht je je aanval willen testen met een gebruiker waarvan het wachtwoord bekend is,
+dan kun je studentnummer 000000 gebruiken, deze heeft het wachtwoord hunter2.
