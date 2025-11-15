@@ -23,3 +23,7 @@ Hint: je zult teken voor teken aan de slag moeten gaan!
 NB: het wachtwoord bestaat uit alleen kleine letters en cijfers. 
 Mocht je je aanval willen testen met een gebruiker waarvan het wachtwoord bekend is,
 dan kun je studentnummer 000000 gebruiken, deze heeft het wachtwoord hunter2.
+
+
+
+
